@@ -9,3 +9,5 @@ Lisasin ka MM19 kirja tal otsaette.
 Jutukas tund, korrastada logo erinevad versioonid. 
 Alustada värvipaleti ja kirjatüüpide määramisega.
 Võib teha seda koos visiitkaardi kujundamisega.
+## 31. märts
+Sain aru ülesandest, mis anti eelmisel nädalal ning veel peale, et kuidas seda paremini teha. Tegin visiitkaardi ka valmis ja plaanin lõpetada töö nädalavahetusel.
