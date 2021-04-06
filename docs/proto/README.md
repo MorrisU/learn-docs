@@ -12,3 +12,6 @@ Vaatasin ka lihtsa video värvide kohta: https://www.youtube.com/watch?v=AvgCkHr
 ## 30.03.2021
 Töötasin natuke veel XD-ga, sain alustatud mobiilvaatega.
 Alustasime bootstrappimisega ning sain aru kõigest, kuid ei jaksa lükata githubi kuna liiga palju on juba tehtud ning on vaja veel teha teistes ainetes.
+
+## 06.04.2021
+Sain aru kuidas bootstrappiga tegutseda, vaatan hiljem tunnikordust ning täiendan.
