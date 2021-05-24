@@ -15,3 +15,7 @@ Alustasime bootstrappimisega ning sain aru kõigest, kuid ei jaksa lükata githu
 
 ## 06.04.2021
 Sain aru kuidas bootstrappiga tegutseda, vaatan hiljem tunnikordust ning täiendan.
+
+## 24.05.2021
+
+Lõpetasin prototüübi :): https://morrisu.github.io/UrvaLeht/
